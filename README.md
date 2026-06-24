@@ -13,7 +13,7 @@ B.Tech ICT @ Dhirubhai Ambani University (Formerly DA-IICT)
 </p>
 
 <p align="center">
-Research Experience spanning AI, Data Science, Cybersecurity & Software Engineering
+Research Experience in AI, Data Science, Cybersecurity, and Software Engineering
 </p>
 
 ---
@@ -31,7 +31,7 @@ My interests lie at the intersection of Artificial Intelligence, Data Science, C
 - Artificial Intelligence and Machine Learning
 - Intelligent Systems
 - Data Science and Analytics
-- Cybersecurity Applications of AI
+- AI for Cybersecurity and Trustworthy Systems
 - Human-Centered Computing
 - Research-Driven Software Engineering
 
@@ -70,8 +70,11 @@ My interests lie at the intersection of Artificial Intelligence, Data Science, C
   - Fuzzy Matching
   - Admiralty-based Risk Scoring
 
-- Achieved 87.8% threat detection across 1000+ URLs.
-
+Key Outcomes:
+- Achieved 90.5% classification accuracy across 1,056 real-world URLs
+- Achieved 92.2% specificity and 87.2% recall
+- Improved real-time performance through caching and parallel DNS queries
+  
 ---
 
 ### 📊 Data Science Intern — Indian Institute of Public Health Gandhinagar
@@ -104,9 +107,10 @@ An intelligent URL analysis framework combining machine learning, threat intelli
 - Admiralty Risk Scoring
 - Parallel DNS Queries and Caching
 
-Key Outcomes:
-- Achieved 87.8% threat detection accuracy across 1000+ URLs
-- Improved real-time performance through caching and parallel DNS queries
+Key Features:
+- Designed AURIS, an explainable multi-layered URL security framework integrating threat intelligence, DNS, SSL, and reputation analysis
+- Engineered modular risk-scoring and feature extraction pipelines for real-time URL assessment
+- Optimized performance through caching and parallel DNS queries for scalable analysis
 
 ---
 
@@ -143,11 +147,11 @@ Classic game implementation demonstrating object-oriented design and game develo
 
 ### Publications
 
-📄 Exploring the Future of AI-Enhanced Wearable Electronics for Real-Time Arrhythmia Detection (2 citations)
+📄 Exploring the Future of AI-Enhanced Wearable Electronics for Real-Time Arrhythmia Detection. Cureus Journals 2.1 (2025) (2 citations)
 
-📄 Revolutionizing Utility of Big Data Analytics in Personalized Cardiovascular Healthcare (6 citations)
+📄 Revolutionizing Utility of Big Data Analytics in Personalized Cardiovascular Healthcare. Bioengineering 12.5 (2025): 463. (6 citations)
 
-📄 Human-in-the-loop Governance of Artificial Intelligence in Cardiology
+📄 Human-in-the-Loop Governance of Artificial Intelligence in Cardiology: From Ethical Principles to Operational Paradigms. Indian Heart Journal (2026)
 
 ### Intellectual Property
 
@@ -166,7 +170,7 @@ Feedforward Neural Networks and Radial Basis Function Networks
 
 🏆 LeetCode Rating: 1690+
 
-💻 Solved 420+ Problems
+💻 Solved 425+ Problems
 
 🏅 Codeforces: Pupil (1254)
 
@@ -204,19 +208,19 @@ Feedforward Neural Networks and Radial Basis Function Networks
 
 ### Domains
 
-Artificial Intelligence
-Data Science
-Software Engineering
-System Design
-Data Analytics
-Cybersecurity
-Threat Intelligence
+`Artificial Intelligence`
+`Data Sciences`
+`Software Engineering`
+`System Design`
+`Data Analytics`
+`Cybersecurity`
+`Threat Intelligence`
 
 ---
 
 ## 🏆 Achievements
 
-🥇 1st Prize — IEEE IoT Competition
+🥇 1st Prize — IEEE IoT Competition (2024)
 
 🎓 Qualified JEE Advanced
 
