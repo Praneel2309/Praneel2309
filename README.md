@@ -50,7 +50,7 @@ My interests lie at the intersection of Artificial Intelligence, Data Science, C
 
 ## 💼 Experience
 
-### 🛰️ Cybersecurity Research Intern — ISRO
+### 🛰️ Research Intern — ISRO
 **May 2026 – July 2026**
 
 - Investigating Domain Generation Algorithms (DGAs) for cybersecurity applications
