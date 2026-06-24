@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praneel Sharma</h1>
 
 <h3 align="center">
-Software Engineer | Research Enthusiast in AI, Data Science & Cybersecurity
+Software Engineer | Research Enthusiast in AI, Data Science and Intelligent Systems
 </h3>
 
 <p align="center">
@@ -13,7 +13,7 @@ B.Tech ICT @ Dhirubhai Ambani University (Formerly DA-IICT)
 </p>
 
 <p align="center">
-Cybersecurity Research Intern @ ISRO • Former Cybersecurity Intern @ IIT Gandhinagar • Research in AI, Data Science & Cybersecurity
+Research Experience spanning AI, Data Science, Cybersecurity & Software Engineering
 </p>
 
 ---
@@ -26,14 +26,25 @@ My interests lie at the intersection of Artificial Intelligence, Data Science, C
 
 ---
 
+## 🔬 Research Interests
+
+- Artificial Intelligence and Machine Learning
+- Intelligent Systems
+- Data Science and Analytics
+- Cybersecurity Applications of AI
+- Human-Centered Computing
+- Research-Driven Software Engineering
+
+---
+
 ## 🔭 Currently Exploring
 
-- Machine Learning for Cybersecurity
+- Machine Learning and Intelligent Systems
+- Data Science and Applied AI
+- System Design and Scalable Software Engineering
 - Domain Generation Algorithm (DGA) Detection
-- Threat Intelligence Systems
-- System Design
-- Scalable Software Engineering
 - Advanced Data Structures & Algorithms
+- Research-Driven Problem Solving
 
 ---
 
@@ -42,16 +53,16 @@ My interests lie at the intersection of Artificial Intelligence, Data Science, C
 ### 🛰️ Cybersecurity Research Intern — ISRO
 **May 2026 – July 2026**
 
-- Investigating Domain Generation Algorithms (DGAs) for cybersecurity threat detection
-- Developing machine learning models to distinguish malicious algorithmically generated domains from benign traffic
-- Exploring statistical and behavioral techniques for identifying emerging cyber threats
+- Investigating Domain Generation Algorithms (DGAs) for cybersecurity applications
+- Developing machine learning models for malicious domain detection
+- Applying statistical and behavioral analysis techniques to large-scale security datasets
 
 ---
 
 ### 🛡️ Cybersecurity & Threat Intelligence Intern — IIT Gandhinagar
 **June 2025 – October 2025**
 
-- Worked on phishing detection and malicious URL analysis
+- Worked on applied machine learning and threat intelligence techniques for phishing detection and malicious URL analysis.
 - Designed a multi-layered URL threat detection framework integrating:
   - Threat Intelligence APIs
   - DNS and WHOIS Analysis
@@ -83,7 +94,7 @@ My interests lie at the intersection of Artificial Intelligence, Data Science, C
 
 ### 🛡️ Multi-Layer URL Security & Threat Analysis System
 
-A comprehensive framework for malicious URL detection using:
+An intelligent URL analysis framework combining machine learning, threat intelligence, and systems engineering techniques for malicious website detection using:
 
 - Threat Intelligence APIs
 - DNS and WHOIS Analysis
@@ -193,13 +204,13 @@ Feedforward Neural Networks and Radial Basis Function Networks
 
 ### Domains
 
-`Artificial Intelligence`
-`Data Science`
-`Cybersecurity`
-`Threat Intelligence`
-`Data Analytics`
-`System Design`
-`Software Engineering`
+Artificial Intelligence
+Data Science
+Software Engineering
+System Design
+Data Analytics
+Cybersecurity
+Threat Intelligence
 
 ---
 
@@ -219,7 +230,7 @@ Feedforward Neural Networks and Radial Basis Function Networks
 
 I enjoy exploring scientific ideas and futuristic technologies that push the boundaries of software systems.
 
-I am particularly interested in how research in AI, data science, and cybersecurity can be translated into practical and impactful engineering solutions.
+I am particularly interested in how advances in AI, data science, and software engineering can be translated into intelligent and impactful real-world systems.
 
 ---
 
