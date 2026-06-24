@@ -242,7 +242,7 @@ I am particularly interested in how advances in AI, data science, and software e
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Praneel2309&show_icons=true&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praneel2309&layout=compact&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praneel2309&layout=compact&hide_border=true&card_width=500" height="170"/>
 </p>
 
 ---
